@@ -5,5 +5,4 @@ public class ClassOne {
 		System.out.println("New Line");
 		System.out.println("Second Line");
 	}
-
 }
